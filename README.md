@@ -1,1 +1,1 @@
-# vision_board
+This app was built to create a digital vision board that would be loaded on to a raspberry pi my idea was to create a digital vision board as i found the use of a physical vision board out of date and frankly so annoying so this board will use wr codes to add your vision board 
